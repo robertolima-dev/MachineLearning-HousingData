@@ -2,7 +2,9 @@
 
 Author: Roberto Lima
 
-Training of machine learning using Python.
+Machine Learning Training using Python.
+
+Linear Regression
 
 This training was developed within the Jupyter Notebook (Anaconda)
 
